@@ -12,8 +12,8 @@
 
 ## 界面预览
 
-![上传图像与交互式分割](test/upload_and_segment.png)
-![脑肿瘤分割结果](test/segmentation_result.png)
+![Auto Mode](test/auto_mode.png)
+![Prompt Mode](test/prompt_mode.png)
 
 ## 安装
 
