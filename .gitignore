@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ren/
+
+# Model weights (too large for Git)
+weights/*.pth
+weights/*.pt
+weights/*.ckpt
+models/*.pth
+models/*.pt
+
+# Keep .gitkeep placeholders
+!models/.gitkeep
+!weights/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
