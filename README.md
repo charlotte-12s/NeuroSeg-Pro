@@ -20,7 +20,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/<your-username>/NeuroSeg-Pro.git
+git clone https://github.com/charlotte-12s/NeuroSeg-Pro.git
 cd NeuroSeg-Pro
 ```
 
